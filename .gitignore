@@ -3,4 +3,5 @@
 
 # compiled output
 /venv
-
+/.idea
+/blog_project/media
